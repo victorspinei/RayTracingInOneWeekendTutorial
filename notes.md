@@ -45,5 +45,31 @@ Watching [Essence of linear algebra](https://youtu.be/fNk_zzaMoSs?si=wAqGKv7hqmL
 - _a, c_ describes where _î_ lands and _b, d_ - _ĵ_
 
 #### Matrices
+- matrix multiplication is associative - a(bc) = (ab)c
+- think of it like applying transformations
+
+#### Determinant
+
+- How much are _areas_ (2d) / __volumes__ (3d) scaled
+- the factor which shows how much the areas are scalled is called a __determinant__.
+
+$$
+\det \left( \begin{bmatrix} \color{green}a & \color{red}b \\ \color{green}c & \color{red}d \end{bmatrix} \right) = \color{green}a\color{red}d - \color{red}b\color{green}c
+$$
+
+![2x2 determinant formula](./assets/2x2determinantformula.png)
+
+- det(M1M2) = det(M1)det(M2)
+
+#### Invers transformation
+
+- det(A) != 0
+- A^-1
+
+$$
+A^{-1}A = \begin{bmatrix} 1 & 0 \\ 0 & 1 \end{bmatrix}
+$$
+
+- Identity matrix - a transformation that does nothing
 
 #### Dot Products
