@@ -29,14 +29,17 @@ Watching [Essence of linear algebra](https://youtu.be/fNk_zzaMoSs?si=wAqGKv7hqmL
 - The number is called __scalar__.
 
 #### Basis Vectors
+
 - î, ĵ - _basis vectors_ of the xy coordinate system
 
 #### Span
+
 - The "span" of vector1 and vector2 is the set of all their linear combinations.
 - a v1 + b v2
 - a b - real numbers
 
 #### Linear tranformation
+
 - lines must remain lines
 - the origin remains fixed
 
@@ -45,6 +48,7 @@ Watching [Essence of linear algebra](https://youtu.be/fNk_zzaMoSs?si=wAqGKv7hqmL
 - _a, c_ describes where _î_ lands and _b, d_ - _ĵ_
 
 #### Matrices
+
 - matrix multiplication is associative - a(bc) = (ab)c
 - think of it like applying transformations
 
@@ -72,4 +76,21 @@ $$
 
 - Identity matrix - a transformation that does nothing
 
+- "Rank" - number of _dimensions_ in the output of a transformation
+
 #### Dot Products
+
+![dot product example](./assets/dotproductexample.png)
+
+![dot product example 2](./assets/dotproductexample2.png)
+
+- if the second projection is in the oposite direction, the dot product should be negative
+
+- order doesn't matter
+
+![dot product 3](./assets/dotproduct3.png)
+
+![dot product 4](./assets/dotproduct4.png)
+
+- dot product is useful geometric tool for understanding __projections__ and if 2 vectors are pointing in the same direction
+
