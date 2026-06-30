@@ -98,3 +98,6 @@ $$
 ### Outputting an image
 
 - PPM image format [wiki](https://en.wikipedia.org/wiki/Netpbm)
+
+### Classes And Objects in C++
+- [video tutorial](https://youtu.be/W1CjYKmTB-c?si=d0vRhUSwu1ECXi78)
