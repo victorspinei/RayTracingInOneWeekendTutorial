@@ -96,3 +96,5 @@ $$
 
 ## Book Notes
 ### Outputting an image
+
+- PPM image format [wiki](https://en.wikipedia.org/wiki/Netpbm)
