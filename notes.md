@@ -94,3 +94,5 @@ $$
 
 - dot product is useful geometric tool for understanding __projections__ and if 2 vectors are pointing in the same direction
 
+## Book Notes
+### Outputting an image
